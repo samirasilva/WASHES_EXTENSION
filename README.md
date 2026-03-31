@@ -14,7 +14,7 @@ This repository documents the Python programming minicourses conducted in 2020 a
 All participants had access to the following materials during the minicourses:
 
 - **Slides:** [Download Slides](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/Slides/)
-- **Textbook:** [Python Introduction Book](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/LivroTexto_Anonimizado.pdf)
+- **Textbook:** [Download Textbook](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/LivroTexto_Anonimizado.pdf)
 
 These resources were designed to provide a solid introduction to Python programming, including hands-on exercises and practical examples.
 
