@@ -1,6 +1,9 @@
-# WASHES_EXTENSION
-
 # [ANONYMIZED] PROJECT
+
+**Paper:** "Six Years Later: Assessing the Impact of a Pandemic-Era Online University Outreach Project for Women in Computing"
+
+**Submitted to**: Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software (WASHES) 2026
+
 
 This repository documents the Python programming minicourses conducted in 2020 as part of an outreach initiative to encourage women to pursue careers in computing. It includes course materials, surveys conducted immediately after the minicourses, a six-year follow-up survey, and results.
 
@@ -24,7 +27,8 @@ Two surveys were conducted to evaluate the impact of the minicourses:
 ### 1️⃣ Immediate Post-Minicourse Survey
 
 - **Purpose:** Assess participants' perception of the minicourse and gather feedback for improvement.  
-- **Timing:** Immediately after each edition of the minicourse (2020).  
+- **Timing:** Immediately after each edition of the minicourse (2020).
+- **Responses:** [Feedback from Minicourse 1](https://example.com/python-book) [Feedback from Minicourse 2](https://example.com/python-book)
 - **Survey Questions:**  
   1. How would you rate this edition of the Python Programming Minicourse? (Score from 1 to 10)  
   2. How did the minicourse affect your interest in the field of Computing?  
@@ -40,6 +44,7 @@ Two surveys were conducted to evaluate the impact of the minicourses:
 
 - **Purpose:** Evaluate the long-term impact of the Python programming minicourse on participants' academic and professional trajectories.  
 - **Timing:** Six years after the course (2026).
+- **Responses:** [General Feedback](https://example.com/python-book) 
 - **Survey Questions:**  
   1. **Current status:** Are you currently studying, working, or both?  
   2. **Current involvement in technology/computing:** Are you currently working or studying in the field of technology or computing?  
