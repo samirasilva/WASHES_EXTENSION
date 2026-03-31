@@ -14,7 +14,7 @@ This repository documents the Python programming minicourses conducted in 2020 a
 All participants had access to the following materials during the minicourses:
 
 - **Slides:** [Download Slides](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/Slides/)
-- **Textbook:** [Python Introduction Book](https://example.com/python-book)
+- **Textbook:** [Python Introduction Book](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/LivroTexto_Anonimizado.pdf)
 
 These resources were designed to provide a solid introduction to Python programming, including hands-on exercises and practical examples.
 
@@ -28,7 +28,7 @@ Two surveys were conducted to evaluate the impact of the minicourses:
 
 - **Purpose:** Assess participants' perception of the minicourse and gather feedback for improvement.  
 - **Timing:** Immediately after each edition of the minicourse (2020).
-- **Responses:** [Feedback from Minicourse 1](https://example.com/python-book) [Feedback from Minicourse 2](https://example.com/python-book)
+- **Responses:** [Feedback from Minicourse 1](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/FeedBack_Minicurso1.ods) [Feedback from Minicourse 2](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/Feedback_Minicurso2.ods)
 - **Survey Questions:**  
   1. How would you rate this edition of the Python Programming Minicourse? (Score from 1 to 10)  
   2. How did the minicourse affect your interest in the field of Computing?  
@@ -44,7 +44,7 @@ Two surveys were conducted to evaluate the impact of the minicourses:
 
 - **Purpose:** Evaluate the long-term impact of the Python programming minicourse on participants' academic and professional trajectories.  
 - **Timing:** Six years after the course (2026).
-- **Responses:** [General Feedback](https://example.com/python-book) 
+- **Responses:** [General Feedback](https://anonymous.4open.science/r/WASHES_EXTENSION-4275/ImpactoLongoPrazo.ods) 
 - **Survey Questions:**  
   1. **Current status:** Are you currently studying, working, or both?  
   2. **Current involvement in technology/computing:** Are you currently working or studying in the field of technology or computing?  
